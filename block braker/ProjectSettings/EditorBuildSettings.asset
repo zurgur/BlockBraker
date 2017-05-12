@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Senes/Start.unity
+  - enabled: 1
+    path: Assets/_Senes/LevelZero.unity
+  - enabled: 1
+    path: Assets/_Senes/LevelZero2.unity
+  - enabled: 1
+    path: Assets/_Senes/LevelZero3.unity
+  - enabled: 1
+    path: Assets/_Senes/Win.unity
+  - enabled: 1
+    path: Assets/_Senes/Lose.unity
+  - enabled: 1
+    path: Assets/_Senes/LevelSelect.unity
